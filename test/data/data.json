@@ -1,0 +1,254 @@
+{
+    "utts": {
+        "BAC009S0724W0121": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:17", 
+                    "name": "input1", 
+                    "shape": [
+                        426, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        12, 
+                        4233
+                    ], 
+                    "text": "广州市房地产中介协会分析", 
+                    "token": "广 州 市 房 地 产 中 介 协 会 分 析", 
+                    "tokenid": "1157 1105 1122 1394 723 86 31 104 434 140 339 1790"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0122": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:34775", 
+                    "name": "input1", 
+                    "shape": [
+                        432, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        13, 
+                        4233
+                    ], 
+                    "text": "广州市房地产中介协会还表示", 
+                    "token": "广 州 市 房 地 产 中 介 协 会 还 表 示", 
+                    "tokenid": "1157 1105 1122 1394 723 86 31 104 434 140 3703 3372 2688"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0123": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:70013", 
+                    "name": "input1", 
+                    "shape": [
+                        322, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        9, 
+                        4233
+                    ], 
+                    "text": "相比于其他一线城市", 
+                    "token": "相 比 于 其 他 一 线 城 市", 
+                    "tokenid": "2581 1970 72 282 111 3 2886 765 1122"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0124": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:96451", 
+                    "name": "input1", 
+                    "shape": [
+                        547, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        16, 
+                        4233
+                    ], 
+                    "text": "广州二手住宅市场表现一直相对稳健", 
+                    "token": "广 州 二 手 住 宅 市 场 表 现 一 直 相 对 稳 健", 
+                    "tokenid": "1157 1105 71 1399 160 959 1122 725 3372 2409 3 2580 2581 1012 2746 237"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0125": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:140889", 
+                    "name": "input1", 
+                    "shape": [
+                        385, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        12, 
+                        4233
+                    ], 
+                    "text": "而在股市大幅震荡的环境下", 
+                    "token": "而 在 股 市 大 幅 震 荡 的 环 境 下", 
+                    "tokenid": "2996 719 3031 1122 815 1144 4016 3202 2554 2408 787 10"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0126": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:172367", 
+                    "name": "input1", 
+                    "shape": [
+                        657, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        20, 
+                        4233
+                    ], 
+                    "text": "预计第三季度将陆续有部分股市资金重归楼市", 
+                    "token": "预 计 第 三 季 度 将 陆 续 有 部 分 股 市 资 金 重 归 楼 市", 
+                    "tokenid": "4066 3439 2800 8 948 1173 1019 3963 2913 1743 3793 339 3031 1122 3571 3832 3829 1209 1892 1122"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0127": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:225605", 
+                    "name": "input1", 
+                    "shape": [
+                        537, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        16, 
+                        4233
+                    ], 
+                    "text": "但受穗六条及二套房首付七成的制约", 
+                    "token": "但 受 穗 六 条 及 二 套 房 首 付 七 成 的 制 约", 
+                    "tokenid": "157 490 2752 276 1778 483 71 839 1394 4116 113 5 1380 2554 357 2870"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0128": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:269243", 
+                    "name": "input1", 
+                    "shape": [
+                        726, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        23, 
+                        4233
+                    ], 
+                    "text": "下半年楼市能是否能回到快速上升通道依然存在变数", 
+                    "token": "下 半 年 楼 市 能 是 否 能 回 到 快 速 上 升 通 道 依 然 存 在 变 数", 
+                    "tokenid": "10 432 1150 1892 1122 3066 1695 537 3066 704 356 1259 3738 9 429 3734 3754 186 2304 941 719 491 1637"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0129": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:328001", 
+                    "name": "input1", 
+                    "shape": [
+                        351, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        9, 
+                        4233
+                    ], 
+                    "text": "其中越秀区涨幅领先", 
+                    "token": "其 中 越 秀 区 涨 幅 领 先", 
+                    "tokenid": "282 31 3598 2718 423 2124 1144 4068 262"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }, 
+        "BAC009S0724W0130": {
+            "input": [
+                {
+                    "feat": "/home/ktxu/workspace/project/End2EndASR/egs/aishell/dump/dev/deltafalse/feats.1.ark:356759", 
+                    "name": "input1", 
+                    "shape": [
+                        739, 
+                        80
+                    ]
+                }
+            ], 
+            "output": [
+                {
+                    "name": "target1", 
+                    "shape": [
+                        23, 
+                        4233
+                    ], 
+                    "text": "天河区的签约面积在豪宅交投增多的带动下上升较快", 
+                    "token": "天 河 区 的 签 约 面 积 在 豪 宅 交 投 增 多 的 带 动 下 上 升 较 快", 
+                    "tokenid": "816 2036 423 2554 2814 2870 4038 2734 719 3533 959 83 1430 791 812 2554 1135 388 10 9 429 3666 1259"
+                }
+            ], 
+            "utt2spk": "S0724"
+        }
+    }
+}
